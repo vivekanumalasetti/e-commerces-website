@@ -1,0 +1,96 @@
+
+
+.mens-fn{
+    display: flex;
+    align-items: center;
+    /* margin: 0 30px; */
+}
+#shirt-1{
+    width: 380px;
+    height: 360px;
+    /* margin: 9px 30px; */
+    /* padding-left: 40px; */
+    /* padding-top: 12px; */
+    background-color: rgba(203, 196, 196, 0.047);
+    border: 1px solid rgba(139, 136, 136, 0);
+    border-radius: 9px;
+    align-items: center;
+    /* padding-right: 18px; */
+    transition: 1s;
+}
+#shirt-1:hover{
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.449);
+    transform:scale(1.1);
+    z-index: 1;
+}
+
+#shirt-1 h6{
+    /* text-align: center; */
+    color: black;
+    font-weight:500;
+    font-size: medium;
+    padding-left: 23px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#shirt-1 h4{
+    /* text-align: center; */
+    color: rgb(9, 9, 9);
+    font-weight: 600;
+    font-size: 24px;
+    padding-left: 23px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#shirt-1 h5{
+    color: rgba(0, 0, 0, 0.944);
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 25px;
+}
+
+.womens-fn{
+    display: flex;
+    align-items: center;
+    margin: 0 30px;
+}
+#dress-1{
+    width: 380px;
+    height: 360px;
+    /* margin: 9px 30px; */
+    /* padding-left: 40px; */
+    /* padding-top: 12px; */
+    background-color: rgba(203, 196, 196, 0.047);
+    border: 1px solid rgba(139, 136, 136, 0);
+    border-radius: 9px;
+    align-items: center;
+    /* padding-right: 18px; */
+    transition: 1s;
+}
+#dress-1:hover{
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.449);
+    transform:scale(1.1);
+    z-index: 1;
+}
+
+#dress-1 h6{
+    /* text-align: center; */
+    color: black;
+    font-weight:500;
+    font-size: medium;
+    padding-left: 23px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#dress-1 h4{
+    /* text-align: center; */
+    color: rgb(9, 9, 9);
+    font-weight: 600;
+    font-size: 24px;
+    padding-left: 23px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#dress-1 h5{
+    color: rgba(0, 0, 0, 0.944);
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 25px;
+}
